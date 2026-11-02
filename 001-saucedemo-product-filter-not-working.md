@@ -21,7 +21,7 @@ Selecting a sort option should reorder the product list according to the chosen 
 The dropdown doesn't update and remains frozen on "Name (A to Z)" and the product list order does not change.
 
 ## Evidence
-![Sort dropdown frozen on Name (A to Z)](.../screenshots/001-sort-dropdown.png)
+go to the screenshots folder and click on 001-sort-dropdown.png
 
 ## Notes
 - Login with `problem_user` works as expected; the issue is isolated to product sorting/filtering.
