@@ -25,4 +25,4 @@ go to the screenshots folder and click on 001-sort-dropdown.png
 
 ## Notes
 - Login with `problem_user` works as expected; the issue is isolated to product sorting/filtering.
-- Tested against the same flow with a 'standard_user' to confirm the sort works there — meaning that the sort not working in 'problem_user' is a bug.
+- Tested against the same flow with a 'standard_user' to confirm the sort works there, meaning that the sort not working in 'problem_user' is a bug.
