@@ -1,2 +1,2 @@
-# Bug-Reports
-a repository where i dump bugs that i find on demo websites,apps etc
+# QA Bug-Reports
+A collection of bugs I've found while testing public websites and demo applications, documented in standard bug report format. Each report includes reproduction steps, expected vs. actual behavior, severity, and environment.
